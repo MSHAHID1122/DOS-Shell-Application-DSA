@@ -1,0 +1,8 @@
+cd
+mkdir
+dir
+echo
+cd..
+cd\
+copy
+cd.

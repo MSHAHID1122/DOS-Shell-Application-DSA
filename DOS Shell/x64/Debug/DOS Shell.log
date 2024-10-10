@@ -1,0 +1,11 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+  CommandExecuter.cpp
+  DOS Shell.cpp
+  FILES.cpp
+  LOAD_DATA.cpp
+C:\Users\User\Desktop\BSCS\3rd Semester\Semester Project\DOS Shell\DOS Shell\LOAD_DATA.cpp(70,13): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  NODE.cpp
+  TREE.cpp
+  Generating Code...
+  LINK : ..\..\..\..\Desktop\BSCS\Third Semester\Semester Project\DOS Shell.exe not found or not built by the last incremental link; performing full link
+  DOS Shell.vcxproj -> C:\Users\User\Desktop\BSCS\Desktop\BSCS\Third Semester\Semester Project\DOS Shell.exe
